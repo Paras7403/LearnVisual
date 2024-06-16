@@ -1,12 +1,11 @@
 # LearnVisual
 
-LearnVisual is an interactive platform built using ReactJS and Chakra-UI that allows users to learn sorting algorithms through engaging visual aids. With customizable settings and a user-friendly interface, learners can adjust array sizes and sorting speeds for a tailored learning experience.
+LearnVisual is an interactive platform designed to facilitate learning of sorting algorithms such as Bubble, Selection, Insertion, Quick, Merge, and Heap through dynamic visual aids. With customizable learning features and a user-friendly design, learners can adjust array sizes and sorting speeds to personalize their learning experience.
 
 <img src="/assets/Capture.JPG">
 
 
 # Features
-
-1) Intuitive Visuals: Learn sorting algorithms interactively with engaging visual aids.
-2) Customizable Settings: Easily adjust array sizes and sorting speeds for a tailored learning experience.
-3) User-Friendly Interface: Enjoy a responsive and accessible design for seamless algorithm learning.
+1) Interactive Visualizations: Intuitively learn sorting algorithms like Bubble, Selection, Insertion, Quick, Merge, and Heap through dynamic visual aids.
+2) Customizable Learning: Adjust array sizes and sorting speeds with responsive controls for a personalized learning experience.
+3) User-Friendly Design: Enjoy an engaging and responsive interface designed to enhance the learning process.
