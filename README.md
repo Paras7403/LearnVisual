@@ -2,9 +2,7 @@
 
 LearnVisual is an interactive platform built using ReactJS and Chakra-UI that allows users to learn sorting algorithms through engaging visual aids. With customizable settings and a user-friendly interface, learners can adjust array sizes and sorting speeds for a tailored learning experience.
 
-<img href="/assets
-/Capture.JPG
-">
+<img src="/assets/Capture.JPG">
 
 
 # Features
